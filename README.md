@@ -27,3 +27,5 @@
 * The Dev Guide can be found in `/opt/MVS/doc/Machine Vision Camera SDK (C)_Developer Guide_V4.1.0_EN/Machine Vision Camera SDK Developer Guide_Linux_(C) V4.1.0.html`
 * Python Sample Code can be found in `/opt/MVS/Samples/64/Python`
 * An example of setting camera parameters and getting image can be found in this [notebook](MV-CS200-10GC.ipynb) [Warning: The code is not for MV-CS200-10GM which is a monochrome camera]
+#### Update
+* [05Sep2026] Now the code also works for MV-CS050-10UC (USB / Color / 5MP)
